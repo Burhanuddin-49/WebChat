@@ -1,3 +1,7 @@
+WebChat
+
+chat with online people
+
 Clone or download the repository
 Open a terminal
 Run deno run --allow-net --allow-read server.ts
